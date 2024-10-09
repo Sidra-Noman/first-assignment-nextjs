@@ -1,0 +1,12 @@
+.container{
+    background-color: pink;
+    color: blueviolet;
+    text-align: left;
+}
+.title{
+    background-color: rgb(238, 88, 113);
+    color:blueviolet;
+    text-align: center;
+    font-size: 40px;
+    
+}

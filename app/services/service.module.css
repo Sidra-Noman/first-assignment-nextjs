@@ -1,0 +1,11 @@
+.container{
+    background-color:rgb(189, 233, 122) ;
+    color: green;
+    
+}
+.title{
+    background-color: rgb(94, 238, 94);
+    color: green;
+    text-align: center;
+    font-size: 40px;
+}

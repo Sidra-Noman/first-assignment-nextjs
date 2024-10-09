@@ -1,0 +1,11 @@
+.container{
+    background-color: rgb(231, 137, 231);
+    color: purple;
+
+}
+.title{
+    color: purple;
+    background-color: rgb(187, 89, 187);
+    text-align: center;
+    font-size: 40px;
+}
