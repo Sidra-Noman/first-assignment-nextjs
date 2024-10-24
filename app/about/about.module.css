@@ -1,10 +1,12 @@
 .container{
     background-color: rgb(144, 238, 208);
     color: blue;
+   
 }
 .title{
     background-color: rgb(35, 110, 116);
     color: blue;
     font-size: 40px;
     text-align: center;
+    height: 100%;
 }

@@ -6,7 +6,7 @@ import { text } from "stream/consumers";
 
 export default function Home() {
     return (    
-   <div>
+   <div className="bg-[grey] h-screen">
     <nav className="navbar">
     <ul>
       <li><Link href="/">Home</Link></li>
