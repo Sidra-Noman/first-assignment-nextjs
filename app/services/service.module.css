@@ -1,6 +1,7 @@
 .container{
-    background-color:rgb(189, 233, 122) ;
+    background-color:rgb(219, 245, 180) ;
     color: green;
+    height: 100vh;
     
 }
 .title{
@@ -8,4 +9,10 @@
     color: green;
     text-align: center;
     font-size: 40px;
+}
+.cont3{
+    
+    gap: 1.5rem;
+    padding: 10px;
+    text-decoration: underline;
 }

@@ -1,0 +1,17 @@
+.container{
+    background-color: rgb(180, 160, 180);
+    color: rgb(95, 66, 95);
+    height: 100vh;
+}
+.title{
+    color: rgb(110, 78, 110);
+    background-color: rgb(247, 128, 247);
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.cont5{
+    padding: 10px;
+    text-decoration: underline;
+}

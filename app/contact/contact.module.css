@@ -2,6 +2,7 @@
     background-color: pink;
     color: blueviolet;
     text-align: left;
+    height: 100vh;
 }
 .title{
     background-color: rgb(238, 88, 113);
@@ -10,3 +11,9 @@
     font-size: 40px;
     
 }
+ .cont2{
+    display: flex;
+    gap: 1.5rem;
+    padding: 10px;
+    text-decoration: underline;
+ }

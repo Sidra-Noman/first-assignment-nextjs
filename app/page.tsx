@@ -6,15 +6,19 @@ import { text } from "stream/consumers";
 
 export default function Home() {
     return (    
-   <div className="bg-[grey] h-screen">
+   <div className="main">
+
     <nav className="navbar">
-    <ul>
+      <div className="nav-container">
+    <ul className="nav-links">
       <li><Link href="/">Home</Link></li>
       <li><Link href="/about" target="_blank">About</Link></li>
       <li><Link href="/contact" target="_blank">Contact</Link></li>
       <li><Link href="/services" target="_blank">Services</Link></li>
       </ul>
+      </div>
       </nav> <br />
+      
       <h1 className="home">This is my home page</h1>
    </div>
   

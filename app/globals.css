@@ -2,11 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-.navbar,li{
+.nav-container{
   display:flex;
-  justify-content: center;
+  justify-content:space-between;
   padding: 10px;
   font-weight: bold;
+  align-items: center;
   
 
 }
@@ -16,3 +17,16 @@
   background-color: rgb(138, 196, 230);
   font-size: 40px;
 }
+ .main{
+  background-color: rgb(230, 129, 129);
+  height: 100vh;
+ }
+
+ .nav-links{
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  padding: 10px;
+  text-decoration: underline;
+
+ }
